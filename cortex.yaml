@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-kraken
+  x-cortex-tag: monster-kraken
+  x-cortex-custom-metadata:
+    alignment: lawful-evil
+    type: monstrosity
+    challenge_rating: 23
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-kraken
+      alias: github-token-test
