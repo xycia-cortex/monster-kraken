@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-kraken
+  x-cortex-tag: monster-kraken
+  x-cortex-custom-metadata:
+    alignment: neutral
+    type: dragon
+    challenge_rating: 19
+    legendary: true
+    armor_class: 16
+    hit_points: 34
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-kraken
+      alias: github-token-test
